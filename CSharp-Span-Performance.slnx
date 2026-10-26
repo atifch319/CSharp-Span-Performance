@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/benchmarks/">
+    <Project Path="benchmarks/SpanPerformance.Benchmarks/SpanPerformance.Benchmarks.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/SpanPerformance/SpanPerformance.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SpanPerformance.Tests/SpanPerformance.Tests.csproj" />
+  </Folder>
+</Solution>
